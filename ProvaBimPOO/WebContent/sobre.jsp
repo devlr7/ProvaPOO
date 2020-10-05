@@ -8,6 +8,7 @@
 </head>
 <body>
 
+<%@ include file = "WEB-INF/jspf/menu.jsp" %>
 	<h1>Nome: Leandro Guilherme Barbosa Oliveira</h1>
 <h1>RA: 1290481912019</h1>
 <h1>Link do GitHub: https://github.com/devlr7/ProvaPOO </h1>

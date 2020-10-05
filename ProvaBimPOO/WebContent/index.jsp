@@ -1,7 +1,6 @@
 <%@page import="br.fatecedupg.com.Disciplina"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,6 +8,8 @@
 <title>Index</title>
 </head>
 <body>
+
+<%@ include file = "WEB-INF/jspf/menu.jsp" %>
 
 <h1>Nome: Leandro Guilherme Barbosa Oliveira</h1>
 <h1>RA: 1290481912019</h1>

@@ -23,7 +23,7 @@
 </head>
 <body>
 
-
+<%@ include file = "WEB-INF/jspf/menu.jsp" %>
 
 <h1>Disciplinas</h1>
 
